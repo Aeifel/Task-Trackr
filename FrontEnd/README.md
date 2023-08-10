@@ -20,7 +20,7 @@ This is a simple personal task manager that allows you to create, edit, and dele
 
 -  React
 - Ant Design for UI
--  API : [Do-It-Now-API ](./BackEnd)
+-  API : [Do-It-Now-API ](../BackEnd)
 - Context API for state management
 - React Router for routing
 - Axios for API calls
