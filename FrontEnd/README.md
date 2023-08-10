@@ -20,7 +20,7 @@ This is a simple personal task manager that allows you to create, edit, and dele
 
 -  React
 - Ant Design for UI
--  API : [Do-It-Now-API ](https://github.com/Velogan-Boy/do-it-now-api)
+-  API : [Do-It-Now-API ]
 - Context API for state management
 - React Router for routing
 - Axios for API calls
@@ -46,7 +46,4 @@ npm start
 
 -  App will run on port 3000
 
-## Live Demo
-
-[Do It Now](https://do-it-now.vercel.app/)
 
